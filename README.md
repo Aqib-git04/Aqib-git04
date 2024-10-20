@@ -1,6 +1,6 @@
 👋 Hi, I’m Syed Aqib (@Aqib-git04)
 👀 I’m interested in front-end development and web design.
-🌱 I’m currently React.
+🌱 I’m currently working on React.
 💞️ I’m looking to collaborate on projects that focus on creating user-friendly interfaces.
 📫 You can reach me at [syedaqib482002@gmail.com].
 😄 Pronouns: He/Him
